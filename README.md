@@ -21,7 +21,7 @@ This project is a Java-based console application that manages library operations
 
 ## How to Run
 1. Open the project in IntelliJ IDEA
-2. Run the main Java file
+2. Run the LibraryManagementSystem Java file
 
 ## Author
 Akash
