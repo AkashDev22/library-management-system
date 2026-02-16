@@ -14,12 +14,6 @@ This project is a Java-based console application that manages library operations
 8. List All Books
 9. List Members
 
-- Add new books
-- View available books
-- Issue books
-- Return books
-- Manage records using ArrayList / HashMap
-
 ## Technologies Used
 - Java
 - Java Collections Framework
